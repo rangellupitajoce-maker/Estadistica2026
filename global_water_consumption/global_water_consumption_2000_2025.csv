@@ -1,4 +1,4 @@
-Country,Year,Total Water Consumption (Billion m3),Per Capita Water Use (L/Day),Agricultural Water Use (%),Industrial Water Use (%),Household Water Use (%),Rainfall Impact (mm),Groundwater Depletion Rate (%),Water Scarcity Level
+pais,año,consumo_total_agua_m3,uso_per_capita_ldia,uso_agricola_%,uso_industrial_%,uso_hogar_%,lluvia_mm,agotamiento_agua_subterranea_%,nivel_escasez_agua
 China,2000,586.04,146.6,63.8,23.1,13.1,633.8,3.99,High
 China,2001,590.09,161.4,63.7,23.2,13.2,854.9,4.16,High
 China,2002,600.0,150.2,63.6,23.2,13.2,1280.2,4.24,Moderate
