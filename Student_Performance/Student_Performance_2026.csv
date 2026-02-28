@@ -1,4 +1,4 @@
-student_ID,Age,Gender,daily_screen_time_hours,social_media_hours,online_study_hours,gaming_hours,sleep_hours,attendance_percentage,offline_study_hours,previous_sem_CGPA,current_sem_CGPA
+id,edad,genero,horas_diarias_pantalla,horas_redes_sociales,horas_estudio_en_linea,horas_videojuegos,horas_sueño,porcentaje_asistencia,horas_estudio_fuera_de_linea,promedio_general_sem_anterior,promedio_general_sem_actual
 S011,23,Female,6.2,2.5,3.8,1.2,7.1,79,2.6,7.74,7.94
 S012,24,Female,4.9,2,5.1,1,8.3,79,2.6,7.72,7.92
 S013,18,Female,7.9,3.2,2.1,1.6,7.1,68,2.3,6.67,6.87
